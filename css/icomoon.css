@@ -194,7 +194,7 @@
 }
 .icon-globe:before {
   content: "\e968";
-  color: #7EA0CA;
+  color: #00CCBB;
 }
 .icon-eye:before {
   content: "\e969";
@@ -1536,7 +1536,7 @@
 }
 .icon-twitter2:before {
   content: "\eac6";
-  color: #7EA0CA;
+  color: #1DA1F2;
 }
 .icon-vine:before {
   content: "\eac7";
@@ -1615,7 +1615,7 @@
 }
 .icon-github:before {
   content: "\eae0";
-  color: #7EA0CA;
+  color: 	#000000;
 }
 .icon-npm:before {
   content: "\eae1";
@@ -1792,3 +1792,18 @@
   content: "\eb1a";
 }
 
+
+.fa-researchgate:before {
+  color: #00CCBB;
+  padding: 2px;
+}
+
+.fa-github:before {
+  color:#000000;
+  padding: 2px;
+}
+
+.fa-twitter:before {
+  color: #1DA1F2;
+  padding: 2px;
+}
