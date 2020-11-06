@@ -405,12 +405,22 @@ body.offcanvas {
 
 .colorlib-heading {
   font-size: 18px;
-  margin-bottom: 4em;
+  margin-bottom: 30px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 5px;
   line-height: 1.8;
   position: relative; }
+  .colorlib-heading h3 {
+    font-size: 16px;
+    font-family: "Quicksand", Arial, sans-serif;
+    margin-bottom: 4em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 1.8;
+    position: relative; }
+  }
   .colorlib-heading span {
     display: block; }
   @media screen and (max-width: 768px) {
@@ -1427,3 +1437,7 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+  .researchdiv {
+    padding-bottom: 30px;
+  }
