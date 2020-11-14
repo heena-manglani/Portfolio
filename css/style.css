@@ -896,7 +896,7 @@ body.offcanvas {
       transition: 0.3s; }
   .blog-entry .desc h3 {
     font-size: 16px;
-    text-align: center;
+    
     margin-bottom: 25px;
     line-height: auto;
     font-weight: 500;
@@ -908,7 +908,7 @@ body.offcanvas {
       text-decoration: none; }
   .blog-entry .desc span {
     display: block;
-    text-align: center;
+
     margin-bottom: 20px;
     font-size: 12px;
     color: rgba(0, 0, 0, 0.4) !important;
@@ -919,7 +919,7 @@ body.offcanvas {
       color: #999999; }
   .blog-entry .desc .lead {
     font-size: 12px;
-    text-align: center;
+
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #000; }
