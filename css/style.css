@@ -105,14 +105,11 @@ figure {
   #colorlib-aside .position {
     display: block;
     margin-bottom: 2em;
-    font-size: 14px;
+    font-size: 13px;
     text-transform: uppercase; }
     #colorlib-aside .position a {
-      font-size: 15px;
+      font-size: 14px;
       font-weight: 500;
-    }
-    #colorlib-aside .position span {
-      font-size: 15px;
     }
   #colorlib-aside #colorlib-logo {
     text-align: right;
